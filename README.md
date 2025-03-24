@@ -20,6 +20,6 @@
 - 📱 Criando um **app Android** para aprofundar o uso de Java.  
 
 ## 🌎 Conecte-se comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-serafim-7862b8118/)  
 
 📌 Sempre buscando evoluir e compartilhar conhecimento. Vamos codar? 🚀  
