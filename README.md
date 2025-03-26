@@ -7,18 +7,8 @@
 - 🔹 **Estruturas de Dados e Algoritmos** aplicados em Java;  
 - 🔹 **Criação de APIs com Java**;  
 - 🔹 **Banco de Dados com MySQL e JDBC**;  
-- 🔹 **Design Patterns e boas práticas em Java**.  
-
-## 🛠️ Tecnologias e Ferramentas:  
-- ☕ **Java SE & Java EE**  
-- 🖥️ **Spring Boot**  
-- 🗄️ **MySQL + JDBC**  
-- 📌 **JUnit para testes**  
-
-## 📂 Projetos em andamento:  
-- 🚀 Desenvolvimento de um **sistema prático** para aplicar conceitos de POO;  
-- 📱 Criando um **app Android** para aprofundar o uso de Java.  
-
+- 🔹 **Design Patterns e boas práticas em Java**.
+- 
 ## 🌎 Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-serafim-7862b8118/)  
 
